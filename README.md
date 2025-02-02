@@ -1,9 +1,9 @@
 ## Hello there! 👋
 
-- My portfolio consists of three different hobby projects, that are yet unfinished but very much usable
+- My portfolio consists of three different hobby projects, that are not yet finished but very much usable
   - ❌⭕ A 2-player online Tic-Tac-Toe game using WebSockets for real-time data synchronization: [TicTacToe](https://github.com/ehirvi/tictactoe-web)
   - 🎥🎬 A mobile application similar to IMDB and Letterboxd for browsing movies and managing your watchlist, with an added twist of having a swiping mechanism similar to popular dating apps for movie recommendations: [Filmio](https://github.com/ehirvi/filmio)
-  - 👾🚀 A 2D space game similar to Space Invaders where you are defending yourself against an incoming horde of aliens: [Space Defender](https://github.com/ehirvi/space_defender)
+  - 👾🚀 A 2D space game similar to Space Invaders where you defend yourself against an incoming horde of aliens: [Space Defender](https://github.com/ehirvi/space_defender)
 
 - I am currently using these technologies and languages:
 
